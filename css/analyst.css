@@ -1,0 +1,35 @@
+li{
+	list-style-type:none;
+
+}
+.huyang{
+display: none;
+
+
+}
+.zengshuai{
+display: none;
+
+}
+
+.liuwei{
+display: none;
+
+
+}
+.analyst_name ul {
+border-top: 10px solid #ff6600;
+
+
+}
+.analyst_name ul li{
+height: 50px;
+margin-top: 10px;
+
+
+}
+
+
+.analyst_name ul li:hover{
+    cursor:pointer;
+}

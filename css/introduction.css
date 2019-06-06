@@ -1,0 +1,42 @@
+li{
+list-style-type:none;
+
+
+}
+.introduction{
+display: none;
+
+}
+.brief{
+display: block;
+
+}
+#brief{
+color: #ff6600;
+
+
+}
+/*
+.title:hover{
+    color:blue;
+}
+
+.title:target{
+    animation: moves 1s;
+}
+*/
+.title{
+color:#333333;
+
+}
+
+.title:hover{
+    cursor:pointer
+}
+.analyst ul li{
+height: 50px;
+margin-top: 10px;
+
+
+
+}
